@@ -52,8 +52,6 @@ Sales Trends
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 **🌟 About Me**
-** Hi there 👋**
-
 My name is Karan. I’m a Data Engineer and IT professional, passionate about sharing knowledge and making the world of data enjoyable and engaging! 🚀
 I believe data should be approachable, fun, and empowering — whether it’s building pipelines, optimizing workflows, or uncovering insights. My mission is to simplify complex concepts and inspire others to explore the endless possibilities of working with data.
 
